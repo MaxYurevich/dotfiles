@@ -1,1 +1,1 @@
-zsh tmux git
+zsh git
